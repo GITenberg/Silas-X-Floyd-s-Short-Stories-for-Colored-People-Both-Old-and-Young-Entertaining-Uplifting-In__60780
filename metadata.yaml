@@ -1,5 +1,8 @@
 _repo: Silas-X-Floyd-s-Short-Stories-for-Colored-People-Both-Old-and-Young-Entertaining-Uplifting-In__60780
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60780-h/images/cover.jpg
 creator:
   author:
     agent_name: Floyd, Silas Xavier
@@ -13,6 +16,8 @@ description: '"The cover image (the dust jacket of the source publication) and p
   some of the illustrations are for a combined edition of two different books; this
   e-text only contains the Short Stories for Colored People Both Old and Young." --Transcriber''s
   Notes'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60780#Silas-X-Floyd-s-Short-Stories-for-Colored-People-Both-Old-and-Young-Entertaining-Uplifting-In_
 gutenberg_issued: '2019-11-25'
 gutenberg_type: Text
 identifiers:
